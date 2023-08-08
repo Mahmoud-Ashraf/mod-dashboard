@@ -1,0 +1,21 @@
+{
+    "sidebar": {
+        "dashboard": "dashboard",
+        "user management": "user management",
+        "permissions": "permissions",
+        "roles": "roles",
+        "users": "users",
+        "audit logs": "audit logs",
+        "authors": "authors",
+        "content management": "content management",
+        "magazine versions": "magazine versions",
+        "magazine releases": "magazine releases",
+        "categories": "categories",
+        "articles": "articles",
+        "ads": "ads",
+        "contacts": "contacts",
+        "configurations": "configurations",
+        "change password": "change password",
+        "logout": "logout"
+    }
+}

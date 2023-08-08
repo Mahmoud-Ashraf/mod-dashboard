@@ -1,0 +1,13 @@
+.lang-select {
+    background: transparent;
+    border: none;
+    color: #000;
+    outline: none;
+
+    option {
+        background-color: transparent;
+        color: #000;
+        display: inline-block;
+        padding: 1rem;
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "sidebar": {
+        "dashboard": "الرئيسية",
+        "user management": "إدارة المستخدمين",
+        "permissions": "الصلاحيات",
+        "roles": "المجموعات",
+        "users": "المستخدمين",
+        "audit logs": "audit logs",
+        "authors": "كتاب المجلة",
+        "content management": "إدارة المحتوى",
+        "magazine versions": "أعداد المجلة",
+        "magazine releases": "إصدارات المجلة",
+        "categories": "التبويبات",
+        "articles": "المقالات",
+        "ads": "الإعلانات",
+        "contacts": "اتصل بنا",
+        "configurations": "الإعدادات",
+        "change password": "تغيير كلمة المرور",
+        "logout": "تسجيل خروج"
+    }
+}

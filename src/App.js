@@ -52,11 +52,73 @@ function App() {
   ]);
 
   return (
-    <div style={{ display: "flex", height: "100vh", position: 'relative', flexDirection: 'row' }}>
+    <div style={{ display: "flex", height: "100vh"}}>
       <Sidebar />
       <main className="page-content">
         <Navbar />
-        <RouterProvider router={router} />
+        <div className="container-fluid my-3">
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <p>Hello from the other side</p>
+          <RouterProvider router={router} />
+        </div>
       </main>
     </div>
   );
